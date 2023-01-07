@@ -16,7 +16,8 @@
         "seller": "Amazon",
         "stock": 5,
         "numOfReviews": 15,
-        "reviews": []
+        "reviews": [],
+        "status":true
     },
     {
         "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
@@ -32,7 +33,8 @@
         "seller": "Flipkart",
         "stock": 9,
         "numOfReviews": 5,
-        "reviews": []
+        "reviews": [],
+        "status": true
     },
     {
         "name": "Dell Inspiron 3511 Laptop",
@@ -48,7 +50,8 @@
         "seller": "Ebay",
         "stock": 9,
         "numOfReviews": 12,
-        "reviews": []
+        "reviews": [],
+        "status": true
     },
     {
         "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
@@ -64,7 +67,8 @@
         "seller": "Amazon",
         "stock": 4,
         "numOfReviews": 20,
-        "reviews": []
+        "reviews": [],
+        "status": true
     },
     {
         "name": "Campus Men's Maxico Running Shoes",
@@ -80,6 +84,7 @@
         "seller": "Ebay",
         "stock": 6,
         "numOfReviews": 9,
-        "reviews": []
+        "reviews": [],
+        "status": true
     }
 ]
